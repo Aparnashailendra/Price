@@ -10,7 +10,7 @@ import pandas as pd
 # In[4]:
 
 
-df = pd.read_csv("./car data.csv")
+df = pd.read_csv("car data.csv")
 
 
 # In[5]:
