@@ -18,5 +18,5 @@ urllib3==1.25.9
 Werkzeug==1.0.1
 wincertstore==0.2
 gunicorn
-seaborn==0.244.2
+seaborn==0.24.2
 pandas==0.20.3
